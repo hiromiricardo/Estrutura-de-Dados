@@ -6,8 +6,10 @@ Atividade final realizada em Linguagem C durante a disciplina de Estrutura de Da
 ## SOBRE O PROJETO
 
 Este programa é uma lista de Registros.
+
 O programa é capaz de inserir (em qualquer posição), remover, ordenar, buscar e exibir pacientes adicionados na lista.
-O paciente a ser adicionado tem os seguintes dados:
+
+- O paciente a ser adicionado tem os seguintes dados:
 - - Matricula;
 - - Nome;
 - - Peso;
